@@ -1,0 +1,924 @@
+
+Port :  1        
+
+    Media Type            : SF+_SR  
+    Vendor Name           : FS               
+    Part Number           : SFP-10GSR-85     
+    Serial Number         : G1807220408      
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  35.00      Status               :  Normal   
+          Low Warn Threshold  : -40.00      High Warn Threshold  :  85.00   
+          Low Alarm Threshold : -50.00      High Alarm Threshold :  100.00  
+
+    Voltage AUX-1/Vcc (Volts) :  3.27       Status               :  Normal   
+          Low Warn Threshold  :  3.10       High Warn Threshold  :  3.50    
+          Low Alarm Threshold :  3.00       High Alarm Threshold :  3.60    
+ 
+
+    Tx Power (dBm)            : -2.82       Status               :  Normal   
+          Low Warn Threshold  : -7.30       High Warn Threshold  :  2.00    
+          Low Alarm Threshold : -9.30       High Alarm Threshold :  3.00    
+
+    Rx Power (dBm)            : -4.47       Status               :  Normal   
+          Low Warn Threshold  : -11.10      High Warn Threshold  :  2.00    
+          Low Alarm Threshold : -13.10      High Alarm Threshold :  3.00    
+
+    Tx Bias Current (mA):        5.28       Status               :  Normal   
+          Low Warn Threshold  :  0.00       High Warn Threshold  :  12.00   
+          Low Alarm Threshold :  0.00       High Alarm Threshold :  15.00   
+
+Port :  2        
+
+    Media Type            : SF+_SR  
+    Vendor Name           : FS               
+    Part Number           : SFP-10GSR-85     
+    Serial Number         : G1807220407      
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  35.00      Status               :  Normal   
+          Low Warn Threshold  : -40.00      High Warn Threshold  :  85.00   
+          Low Alarm Threshold : -50.00      High Alarm Threshold :  100.00  
+
+    Voltage AUX-1/Vcc (Volts) :  3.27       Status               :  Normal   
+          Low Warn Threshold  :  3.10       High Warn Threshold  :  3.50    
+          Low Alarm Threshold :  3.00       High Alarm Threshold :  3.60    
+ 
+
+    Tx Power (dBm)            : -3.11       Status               :  Normal   
+          Low Warn Threshold  : -7.30       High Warn Threshold  :  2.00    
+          Low Alarm Threshold : -9.30       High Alarm Threshold :  3.00    
+
+    Rx Power (dBm)            : -4.73       Status               :  Normal   
+          Low Warn Threshold  : -11.10      High Warn Threshold  :  2.00    
+          Low Alarm Threshold : -13.10      High Alarm Threshold :  3.00    
+
+    Tx Bias Current (mA):        6.27       Status               :  Normal   
+          Low Warn Threshold  :  0.00       High Warn Threshold  :  12.00   
+          Low Alarm Threshold :  0.00       High Alarm Threshold :  15.00   
+
+Port :  3        
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : FINISAR CORP.    
+    Part Number           : FTLX8571D3BCL    
+    Serial Number         : ARD1GH4          
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  39.71      Status               :  Normal   
+          Low Warn Threshold  : -8.00       High Warn Threshold  :  73.00   
+          Low Alarm Threshold : -13.00      High Alarm Threshold :  78.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.31       Status               :  Normal   
+          Low Warn Threshold  :  3.00       High Warn Threshold  :  3.60    
+          Low Alarm Threshold :  2.90       High Alarm Threshold :  3.70    
+ 
+
+    Tx Power (dBm)            : -2.13       Status               :  Normal   
+          Low Warn Threshold  : -5.00       High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -6.00       High Alarm Threshold :  0.00    
+
+    Rx Power (dBm)            : -4.53       Status               :  Normal   
+          Low Warn Threshold  : -18.01      High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -20.00      High Alarm Threshold :  0.00    
+
+    Tx Bias Current (mA):        8.09       Status               :  Normal   
+          Low Warn Threshold  :  5.00       High Warn Threshold  :  12.60   
+          Low Alarm Threshold :  4.00       High Alarm Threshold :  13.20   
+
+Port :  4        
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : FINISAR CORP.    
+    Part Number           : FTLX8571D3BCL    
+    Serial Number         : AQ92NVG          
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  41.89      Status               :  Normal   
+          Low Warn Threshold  : -8.00       High Warn Threshold  :  73.00   
+          Low Alarm Threshold : -13.00      High Alarm Threshold :  78.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.31       Status               :  Normal   
+          Low Warn Threshold  :  3.00       High Warn Threshold  :  3.60    
+          Low Alarm Threshold :  2.90       High Alarm Threshold :  3.70    
+ 
+
+    Tx Power (dBm)            : -2.02       Status               :  Normal   
+          Low Warn Threshold  : -5.00       High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -6.00       High Alarm Threshold :  0.00    
+
+    Rx Power (dBm)            : -1.87       Status               :  Normal   
+          Low Warn Threshold  : -18.01      High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -20.00      High Alarm Threshold :  0.00    
+
+    Tx Bias Current (mA):        8.17       Status               :  Normal   
+          Low Warn Threshold  :  5.00       High Warn Threshold  :  12.60   
+          Low Alarm Threshold :  4.00       High Alarm Threshold :  13.20   
+
+Port :  5        
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : FS               
+    Part Number           : SFP-10GSR-85     
+    Serial Number         : G1807208656      
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  38.00      Status               :  Normal   
+          Low Warn Threshold  : -40.00      High Warn Threshold  :  85.00   
+          Low Alarm Threshold : -50.00      High Alarm Threshold :  100.00  
+
+    Voltage AUX-1/Vcc (Volts) :  3.27       Status               :  Normal   
+          Low Warn Threshold  :  3.10       High Warn Threshold  :  3.50    
+          Low Alarm Threshold :  3.00       High Alarm Threshold :  3.60    
+ 
+
+    Tx Power (dBm)            : -1.77       Status               :  Normal   
+          Low Warn Threshold  : -7.30       High Warn Threshold  :  2.00    
+          Low Alarm Threshold : -9.30       High Alarm Threshold :  3.00    
+
+    Rx Power (dBm)            : -3.53       Status               :  Normal   
+          Low Warn Threshold  : -11.10      High Warn Threshold  :  2.00    
+          Low Alarm Threshold : -13.10      High Alarm Threshold :  3.00    
+
+    Tx Bias Current (mA):        6.40       Status               :  Normal   
+          Low Warn Threshold  :  0.00       High Warn Threshold  :  12.00   
+          Low Alarm Threshold :  0.00       High Alarm Threshold :  15.00   
+
+Port :  6        
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : FS               
+    Part Number           : SFP-10GSR-85     
+    Serial Number         : G1807208655      
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  38.00      Status               :  Normal   
+          Low Warn Threshold  : -40.00      High Warn Threshold  :  85.00   
+          Low Alarm Threshold : -50.00      High Alarm Threshold :  100.00  
+
+    Voltage AUX-1/Vcc (Volts) :  3.27       Status               :  Normal   
+          Low Warn Threshold  :  3.10       High Warn Threshold  :  3.50    
+          Low Alarm Threshold :  3.00       High Alarm Threshold :  3.60    
+ 
+
+    Tx Power (dBm)            : -1.86       Status               :  Normal   
+          Low Warn Threshold  : -7.30       High Warn Threshold  :  2.00    
+          Low Alarm Threshold : -9.30       High Alarm Threshold :  3.00    
+
+    Rx Power (dBm)            : -3.80       Status               :  Normal   
+          Low Warn Threshold  : -11.10      High Warn Threshold  :  2.00    
+          Low Alarm Threshold : -13.10      High Alarm Threshold :  3.00    
+
+    Tx Bias Current (mA):        6.27       Status               :  Normal   
+          Low Warn Threshold  :  0.00       High Warn Threshold  :  12.00   
+          Low Alarm Threshold :  0.00       High Alarm Threshold :  15.00   
+
+Port :  7        
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : FINISAR CORP.    
+    Part Number           : FTLX8571D3BCL    
+    Serial Number         : ARG22NN          
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  40.44      Status               :  Normal   
+          Low Warn Threshold  : -8.00       High Warn Threshold  :  73.00   
+          Low Alarm Threshold : -13.00      High Alarm Threshold :  78.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.28       Status               :  Normal   
+          Low Warn Threshold  :  3.00       High Warn Threshold  :  3.60    
+          Low Alarm Threshold :  2.90       High Alarm Threshold :  3.70    
+ 
+
+    Tx Power (dBm)            : -2.56       Status               :  Normal   
+          Low Warn Threshold  : -5.00       High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -6.00       High Alarm Threshold :  0.00    
+
+    Rx Power (dBm)            : -3.27       Status               :  Normal   
+          Low Warn Threshold  : -18.01      High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -20.00      High Alarm Threshold :  0.00    
+
+    Tx Bias Current (mA):        8.07       Status               :  Normal   
+          Low Warn Threshold  :  5.00       High Warn Threshold  :  12.60   
+          Low Alarm Threshold :  4.00       High Alarm Threshold :  13.20   
+
+Port :  8        
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : FINISAR CORP.    
+    Part Number           : FTLX8571D3BCL    
+    Serial Number         : AM307AJ          
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  42.77      Status               :  Normal   
+          Low Warn Threshold  : -8.00       High Warn Threshold  :  73.00   
+          Low Alarm Threshold : -13.00      High Alarm Threshold :  78.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.30       Status               :  Normal   
+          Low Warn Threshold  :  3.00       High Warn Threshold  :  3.60    
+          Low Alarm Threshold :  2.90       High Alarm Threshold :  3.70    
+ 
+
+    Tx Power (dBm)            : -2.11       Status               :  Normal   
+          Low Warn Threshold  : -5.00       High Warn Threshold  : -1.80    
+          Low Alarm Threshold : -6.00       High Alarm Threshold : -0.80    
+
+    Rx Power (dBm)            : -36.99      Status               :  Low Alarm 
+          Low Warn Threshold  : -18.01      High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -20.00      High Alarm Threshold :  0.00    
+
+    Tx Bias Current (mA):        8.45       Status               :  Normal   
+          Low Warn Threshold  :  5.00       High Warn Threshold  :  10.80   
+          Low Alarm Threshold :  4.00       High Alarm Threshold :  11.80   
+
+Port :  9        
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : AVAGO            
+    Part Number           : AFBR-709SMZ      
+    Serial Number         : AD151730J70      
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  38.56      Status               :  Normal   
+          Low Warn Threshold  :  0.00       High Warn Threshold  :  80.00   
+          Low Alarm Threshold : -5.00       High Alarm Threshold :  85.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.31       Status               :  Normal   
+          Low Warn Threshold  :  3.13       High Warn Threshold  :  3.46    
+          Low Alarm Threshold :  3.00       High Alarm Threshold :  3.60    
+ 
+
+    Tx Power (dBm)            : -2.22       Status               :  Normal   
+          Low Warn Threshold  : -4.99       High Warn Threshold  : -1.02    
+          Low Alarm Threshold : -9.00       High Alarm Threshold :  3.01    
+
+    Rx Power (dBm)            : -40.00      Status               :  Low Alarm 
+          Low Warn Threshold  : -15.02      High Warn Threshold  : -1.02    
+          Low Alarm Threshold : -15.02      High Alarm Threshold :  3.01    
+
+    Tx Bias Current (mA):        6.79       Status               :  Normal   
+          Low Warn Threshold  :  2.50       High Warn Threshold  :  10.50   
+          Low Alarm Threshold :  2.50       High Alarm Threshold :  10.50   
+
+Port :  10       
+
+    Media Type            : SF+_SR  
+    Vendor Name           : FLEXOPTIX        
+    Part Number           : P.8596.02        
+    Serial Number         : F78EF55          
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  49.43      Status               :  Normal   
+          Low Warn Threshold  : -5.00       High Warn Threshold  :  85.00   
+          Low Alarm Threshold : -10.00      High Alarm Threshold :  90.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.30       Status               :  Normal   
+          Low Warn Threshold  :  3.05       High Warn Threshold  :  3.50    
+          Low Alarm Threshold :  3.00       High Alarm Threshold :  3.60    
+ 
+
+    Tx Power (dBm)            : -3.07       Status               :  Normal   
+          Low Warn Threshold  : -8.30       High Warn Threshold  :  0.00    
+          Low Alarm Threshold : -9.30       High Alarm Threshold :  1.00    
+
+    Rx Power (dBm)            : -40.00      Status               :  Low Alarm 
+          Low Warn Threshold  : -12.10      High Warn Threshold  :  0.00    
+          Low Alarm Threshold : -13.10      High Alarm Threshold :  1.00    
+
+    Tx Bias Current (mA):        6.73       Status               :  Normal   
+          Low Warn Threshold  :  2.00       High Warn Threshold  :  40.00   
+          Low Alarm Threshold :  1.00       High Alarm Threshold :  50.00   
+
+Port :  11       
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : AVAGO            
+    Part Number           : AFBR-709SMZ      
+    Serial Number         : AD151730VYM      
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  39.36      Status               :  Normal   
+          Low Warn Threshold  :  0.00       High Warn Threshold  :  80.00   
+          Low Alarm Threshold : -5.00       High Alarm Threshold :  85.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.31       Status               :  Normal   
+          Low Warn Threshold  :  3.13       High Warn Threshold  :  3.46    
+          Low Alarm Threshold :  3.00       High Alarm Threshold :  3.60    
+ 
+
+    Tx Power (dBm)            : -2.34       Status               :  Normal   
+          Low Warn Threshold  : -4.99       High Warn Threshold  : -1.02    
+          Low Alarm Threshold : -9.00       High Alarm Threshold :  3.01    
+
+    Rx Power (dBm)            : -40.00      Status               :  Low Alarm 
+          Low Warn Threshold  : -15.02      High Warn Threshold  : -1.02    
+          Low Alarm Threshold : -15.02      High Alarm Threshold :  3.01    
+
+    Tx Bias Current (mA):        5.48       Status               :  Normal   
+          Low Warn Threshold  :  2.50       High Warn Threshold  :  10.50   
+          Low Alarm Threshold :  2.50       High Alarm Threshold :  10.50   
+
+Port :  12       
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : FINISAR CORP.    
+    Part Number           : FTLX8574D3BCL    
+    Serial Number         : A41AE6G          
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  41.82      Status               :  Normal   
+          Low Warn Threshold  : -8.00       High Warn Threshold  :  73.00   
+          Low Alarm Threshold : -13.00      High Alarm Threshold :  78.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.31       Status               :  Normal   
+          Low Warn Threshold  :  3.00       High Warn Threshold  :  3.60    
+          Low Alarm Threshold :  2.90       High Alarm Threshold :  3.70    
+ 
+
+    Tx Power (dBm)            : -2.64       Status               :  Normal   
+          Low Warn Threshold  : -5.00       High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -6.00       High Alarm Threshold :  0.00    
+
+    Rx Power (dBm)            : -26.78      Status               :  Low Alarm 
+          Low Warn Threshold  : -18.01      High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -20.00      High Alarm Threshold :  0.00    
+
+    Tx Bias Current (mA):        9.25       Status               :  Normal   
+          Low Warn Threshold  :  5.00       High Warn Threshold  :  12.50   
+          Low Alarm Threshold :  4.00       High Alarm Threshold :  13.00   
+
+Port :  13       
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : AVAGO            
+    Part Number           : AFBR-709SMZ      
+    Serial Number         : AA15173PHEY      
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  39.55      Status               :  Normal   
+          Low Warn Threshold  :  0.00       High Warn Threshold  :  80.00   
+          Low Alarm Threshold : -5.00       High Alarm Threshold :  85.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.32       Status               :  Normal   
+          Low Warn Threshold  :  3.13       High Warn Threshold  :  3.46    
+          Low Alarm Threshold :  3.00       High Alarm Threshold :  3.60    
+ 
+
+    Tx Power (dBm)            : -2.38       Status               :  Normal   
+          Low Warn Threshold  : -4.99       High Warn Threshold  : -1.02    
+          Low Alarm Threshold : -9.00       High Alarm Threshold :  3.01    
+
+    Rx Power (dBm)            : -inf        Status               :  Low Alarm 
+          Low Warn Threshold  : -15.02      High Warn Threshold  : -1.02    
+          Low Alarm Threshold : -15.02      High Alarm Threshold :  3.01    
+
+    Tx Bias Current (mA):        6.30       Status               :  Normal   
+          Low Warn Threshold  :  2.50       High Warn Threshold  :  10.50   
+          Low Alarm Threshold :  2.50       High Alarm Threshold :  10.50   
+
+Port :  14       
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : FINISAR CORP.    
+    Part Number           : FTLX8571D3BCL    
+    Serial Number         : ARG28KP          
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  44.08      Status               :  Normal   
+          Low Warn Threshold  : -8.00       High Warn Threshold  :  73.00   
+          Low Alarm Threshold : -13.00      High Alarm Threshold :  78.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.31       Status               :  Normal   
+          Low Warn Threshold  :  3.00       High Warn Threshold  :  3.60    
+          Low Alarm Threshold :  2.90       High Alarm Threshold :  3.70    
+ 
+
+    Tx Power (dBm)            : -1.86       Status               :  Normal   
+          Low Warn Threshold  : -5.00       High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -6.00       High Alarm Threshold :  0.00    
+
+    Rx Power (dBm)            : -inf        Status               :  Low Alarm 
+          Low Warn Threshold  : -18.01      High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -20.00      High Alarm Threshold :  0.00    
+
+    Tx Bias Current (mA):        7.37       Status               :  Normal   
+          Low Warn Threshold  :  5.00       High Warn Threshold  :  12.60   
+          Low Alarm Threshold :  4.00       High Alarm Threshold :  13.20   
+
+Port :  15       
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : AVAGO            
+    Part Number           : AFBR-709SMZ      
+    Serial Number         : AD151730VYT      
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  37.49      Status               :  Normal   
+          Low Warn Threshold  :  0.00       High Warn Threshold  :  80.00   
+          Low Alarm Threshold : -5.00       High Alarm Threshold :  85.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.29       Status               :  Normal   
+          Low Warn Threshold  :  3.13       High Warn Threshold  :  3.46    
+          Low Alarm Threshold :  3.00       High Alarm Threshold :  3.60    
+ 
+
+    Tx Power (dBm)            : -2.24       Status               :  Normal   
+          Low Warn Threshold  : -4.99       High Warn Threshold  : -1.02    
+          Low Alarm Threshold : -9.00       High Alarm Threshold :  3.01    
+
+    Rx Power (dBm)            : -40.00      Status               :  Low Alarm 
+          Low Warn Threshold  : -15.02      High Warn Threshold  : -1.02    
+          Low Alarm Threshold : -15.02      High Alarm Threshold :  3.01    
+
+    Tx Bias Current (mA):        5.72       Status               :  Normal   
+          Low Warn Threshold  :  2.50       High Warn Threshold  :  10.50   
+          Low Alarm Threshold :  2.50       High Alarm Threshold :  10.50   
+
+Port :  16       
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : AVAGO            
+    Part Number           : AFBR-709SMZ      
+    Serial Number         : AD151730VYY      
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  38.86      Status               :  Normal   
+          Low Warn Threshold  :  0.00       High Warn Threshold  :  80.00   
+          Low Alarm Threshold : -5.00       High Alarm Threshold :  85.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.31       Status               :  Normal   
+          Low Warn Threshold  :  3.13       High Warn Threshold  :  3.46    
+          Low Alarm Threshold :  3.00       High Alarm Threshold :  3.60    
+ 
+
+    Tx Power (dBm)            : -2.28       Status               :  Normal   
+          Low Warn Threshold  : -4.99       High Warn Threshold  : -1.02    
+          Low Alarm Threshold : -9.00       High Alarm Threshold :  3.01    
+
+    Rx Power (dBm)            : -40.00      Status               :  Low Alarm 
+          Low Warn Threshold  : -15.02      High Warn Threshold  : -1.02    
+          Low Alarm Threshold : -15.02      High Alarm Threshold :  3.01    
+
+    Tx Bias Current (mA):        5.69       Status               :  Normal   
+          Low Warn Threshold  :  2.50       High Warn Threshold  :  10.50   
+          Low Alarm Threshold :  2.50       High Alarm Threshold :  10.50   
+
+Port :  17       
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : AVAGO            
+    Part Number           : AFBR-709SMZ      
+    Serial Number         : AA15173PHRK      
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  38.66      Status               :  Normal   
+          Low Warn Threshold  :  0.00       High Warn Threshold  :  80.00   
+          Low Alarm Threshold : -5.00       High Alarm Threshold :  85.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.32       Status               :  Normal   
+          Low Warn Threshold  :  3.13       High Warn Threshold  :  3.46    
+          Low Alarm Threshold :  3.00       High Alarm Threshold :  3.60    
+ 
+
+    Tx Power (dBm)            : -2.39       Status               :  Normal   
+          Low Warn Threshold  : -4.99       High Warn Threshold  : -1.02    
+          Low Alarm Threshold : -9.00       High Alarm Threshold :  3.01    
+
+    Rx Power (dBm)            : -40.00      Status               :  Low Alarm 
+          Low Warn Threshold  : -15.02      High Warn Threshold  : -1.02    
+          Low Alarm Threshold : -15.02      High Alarm Threshold :  3.01    
+
+    Tx Bias Current (mA):        6.14       Status               :  Normal   
+          Low Warn Threshold  :  2.50       High Warn Threshold  :  10.50   
+          Low Alarm Threshold :  2.50       High Alarm Threshold :  10.50   
+
+Port :  18       
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : FINISAR CORP.    
+    Part Number           : FTLX8574D3BCL    
+    Serial Number         : N55ARVT          
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  41.26      Status               :  Normal   
+          Low Warn Threshold  : -8.00       High Warn Threshold  :  73.00   
+          Low Alarm Threshold : -13.00      High Alarm Threshold :  78.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.34       Status               :  Normal   
+          Low Warn Threshold  :  3.00       High Warn Threshold  :  3.60    
+          Low Alarm Threshold :  2.90       High Alarm Threshold :  3.70    
+ 
+
+    Tx Power (dBm)            : -2.43       Status               :  Normal   
+          Low Warn Threshold  : -5.00       High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -6.00       High Alarm Threshold :  0.00    
+
+    Rx Power (dBm)            : -26.78      Status               :  Low Alarm 
+          Low Warn Threshold  : -18.01      High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -20.00      High Alarm Threshold :  0.00    
+
+    Tx Bias Current (mA):        8.27       Status               :  Normal   
+          Low Warn Threshold  :  5.00       High Warn Threshold  :  12.50   
+          Low Alarm Threshold :  4.00       High Alarm Threshold :  13.00   
+
+Port :  19       
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : FINISAR CORP.    
+    Part Number           : FTLX8574D3BCL    
+    Serial Number         : N5JC1P1          
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  41.65      Status               :  Normal   
+          Low Warn Threshold  : -8.00       High Warn Threshold  :  73.00   
+          Low Alarm Threshold : -13.00      High Alarm Threshold :  78.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.38       Status               :  Normal   
+          Low Warn Threshold  :  3.00       High Warn Threshold  :  3.60    
+          Low Alarm Threshold :  2.90       High Alarm Threshold :  3.70    
+ 
+
+    Tx Power (dBm)            : -2.31       Status               :  Normal   
+          Low Warn Threshold  : -5.00       High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -6.00       High Alarm Threshold :  0.00    
+
+    Rx Power (dBm)            : -26.78      Status               :  Low Alarm 
+          Low Warn Threshold  : -18.01      High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -20.00      High Alarm Threshold :  0.00    
+
+    Tx Bias Current (mA):        8.40       Status               :  Normal   
+          Low Warn Threshold  :  5.00       High Warn Threshold  :  12.50   
+          Low Alarm Threshold :  4.00       High Alarm Threshold :  13.00   
+
+Port :  20       
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : FINISAR CORP.    
+    Part Number           : FTLX8574D3BCL    
+    Serial Number         : N5HBCMZ          
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  42.36      Status               :  Normal   
+          Low Warn Threshold  : -8.00       High Warn Threshold  :  73.00   
+          Low Alarm Threshold : -13.00      High Alarm Threshold :  78.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.33       Status               :  Normal   
+          Low Warn Threshold  :  3.00       High Warn Threshold  :  3.60    
+          Low Alarm Threshold :  2.90       High Alarm Threshold :  3.70    
+ 
+
+    Tx Power (dBm)            : -2.46       Status               :  Normal   
+          Low Warn Threshold  : -5.00       High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -6.00       High Alarm Threshold :  0.00    
+
+    Rx Power (dBm)            : -26.78      Status               :  Low Alarm 
+          Low Warn Threshold  : -18.01      High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -20.00      High Alarm Threshold :  0.00    
+
+    Tx Bias Current (mA):        8.35       Status               :  Normal   
+          Low Warn Threshold  :  5.00       High Warn Threshold  :  12.50   
+          Low Alarm Threshold :  4.00       High Alarm Threshold :  13.00   
+
+Port :  21       
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : FINISAR CORP.    
+    Part Number           : FTLX8574D3BCL    
+    Serial Number         : AZ820K5          
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  39.23      Status               :  Normal   
+          Low Warn Threshold  : -8.00       High Warn Threshold  :  73.00   
+          Low Alarm Threshold : -13.00      High Alarm Threshold :  78.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.35       Status               :  Normal   
+          Low Warn Threshold  :  3.00       High Warn Threshold  :  3.60    
+          Low Alarm Threshold :  2.90       High Alarm Threshold :  3.70    
+ 
+
+    Tx Power (dBm)            : -2.59       Status               :  Normal   
+          Low Warn Threshold  : -5.00       High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -6.00       High Alarm Threshold :  0.00    
+
+    Rx Power (dBm)            : -2.54       Status               :  Normal   
+          Low Warn Threshold  : -18.01      High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -20.00      High Alarm Threshold :  0.00    
+
+    Tx Bias Current (mA):        9.16       Status               :  Normal   
+          Low Warn Threshold  :  5.00       High Warn Threshold  :  12.50   
+          Low Alarm Threshold :  4.00       High Alarm Threshold :  13.00   
+
+Port :  22       
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : FINISAR CORP.    
+    Part Number           : FTLX8574D3BCL    
+    Serial Number         : A4MCR3D          
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  40.30      Status               :  Normal   
+          Low Warn Threshold  : -8.00       High Warn Threshold  :  73.00   
+          Low Alarm Threshold : -13.00      High Alarm Threshold :  78.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.34       Status               :  Normal   
+          Low Warn Threshold  :  3.00       High Warn Threshold  :  3.60    
+          Low Alarm Threshold :  2.90       High Alarm Threshold :  3.70    
+ 
+
+    Tx Power (dBm)            : -2.59       Status               :  Normal   
+          Low Warn Threshold  : -5.00       High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -6.00       High Alarm Threshold :  0.00    
+
+    Rx Power (dBm)            : -1.83       Status               :  Normal   
+          Low Warn Threshold  : -18.01      High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -20.00      High Alarm Threshold :  0.00    
+
+    Tx Bias Current (mA):        9.18       Status               :  Normal   
+          Low Warn Threshold  :  5.00       High Warn Threshold  :  12.50   
+          Low Alarm Threshold :  4.00       High Alarm Threshold :  13.00   
+
+Port :  23       
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : FINISAR CORP.    
+    Part Number           : FTLX8574D3BCL    
+    Serial Number         : AZA214R          
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  39.26      Status               :  Normal   
+          Low Warn Threshold  : -8.00       High Warn Threshold  :  73.00   
+          Low Alarm Threshold : -13.00      High Alarm Threshold :  78.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.31       Status               :  Normal   
+          Low Warn Threshold  :  3.00       High Warn Threshold  :  3.60    
+          Low Alarm Threshold :  2.90       High Alarm Threshold :  3.70    
+ 
+
+    Tx Power (dBm)            : -2.70       Status               :  Normal   
+          Low Warn Threshold  : -5.00       High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -6.00       High Alarm Threshold :  0.00    
+
+    Rx Power (dBm)            : -2.68       Status               :  Normal   
+          Low Warn Threshold  : -18.01      High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -20.00      High Alarm Threshold :  0.00    
+
+    Tx Bias Current (mA):        9.16       Status               :  Normal   
+          Low Warn Threshold  :  5.00       High Warn Threshold  :  12.50   
+          Low Alarm Threshold :  4.00       High Alarm Threshold :  13.00   
+
+Port :  24       
+Error: Transceiver is not present on this port 
+
+Port :  25       
+Error: DDMI is not supported on this 1000T transceiver 
+
+Port :  26       
+Error: DDMI is not supported on this 1000T transceiver 
+
+Port :  27       
+Error: DDMI is not supported on this 1000T transceiver 
+
+Port :  28       
+Error: DDMI is not supported on this 1000T transceiver 
+
+Port :  29       
+Error: DDMI is not supported on this 1000T transceiver 
+
+Port :  30       
+Error: DDMI is not supported on this 1000T transceiver 
+
+Port :  31       
+Error: DDMI is not supported on this 1000T transceiver 
+
+Port :  32       
+Error: DDMI is not supported on this 1000T transceiver 
+
+Port :  33       
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : FINISAR CORP.    
+    Part Number           : FTLX8574D3BCL    
+    Serial Number         : AZ820HK          
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  36.71      Status               :  Normal   
+          Low Warn Threshold  : -8.00       High Warn Threshold  :  73.00   
+          Low Alarm Threshold : -13.00      High Alarm Threshold :  78.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.34       Status               :  Normal   
+          Low Warn Threshold  :  3.00       High Warn Threshold  :  3.60    
+          Low Alarm Threshold :  2.90       High Alarm Threshold :  3.70    
+ 
+
+    Tx Power (dBm)            : -2.64       Status               :  Normal   
+          Low Warn Threshold  : -5.00       High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -6.00       High Alarm Threshold :  0.00    
+
+    Rx Power (dBm)            : -26.78      Status               :  Low Alarm 
+          Low Warn Threshold  : -18.01      High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -20.00      High Alarm Threshold :  0.00    
+
+    Tx Bias Current (mA):        9.07       Status               :  Normal   
+          Low Warn Threshold  :  5.00       High Warn Threshold  :  12.50   
+          Low Alarm Threshold :  4.00       High Alarm Threshold :  13.00   
+
+Port :  34       
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : FINISAR CORP.    
+    Part Number           : FTLX8571D3BCL    
+    Serial Number         : AQ92MBB          
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  38.86      Status               :  Normal   
+          Low Warn Threshold  : -8.00       High Warn Threshold  :  73.00   
+          Low Alarm Threshold : -13.00      High Alarm Threshold :  78.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.31       Status               :  Normal   
+          Low Warn Threshold  :  3.00       High Warn Threshold  :  3.60    
+          Low Alarm Threshold :  2.90       High Alarm Threshold :  3.70    
+ 
+
+    Tx Power (dBm)            : -1.97       Status               :  Normal   
+          Low Warn Threshold  : -5.00       High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -6.00       High Alarm Threshold :  0.00    
+
+    Rx Power (dBm)            : -31.55      Status               :  Low Alarm 
+          Low Warn Threshold  : -18.01      High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -20.00      High Alarm Threshold :  0.00    
+
+    Tx Bias Current (mA):        7.92       Status               :  Normal   
+          Low Warn Threshold  :  5.00       High Warn Threshold  :  12.60   
+          Low Alarm Threshold :  4.00       High Alarm Threshold :  13.20   
+
+Port :  35       
+
+    Media Type            : SF+_SR  
+    Vendor Name           : Skylane Optics   
+    Part Number           : SPP85P30100D760  
+    Serial Number         : i1k2wx6x0042     
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  36.39      Status               :  Normal   
+          Low Warn Threshold  : -20.00      High Warn Threshold  :  90.00   
+          Low Alarm Threshold : -25.00      High Alarm Threshold :  95.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.26       Status               :  Normal   
+          Low Warn Threshold  :  2.90       High Warn Threshold  :  3.70    
+          Low Alarm Threshold :  2.80       High Alarm Threshold :  3.80    
+ 
+
+    Tx Power (dBm)            : -2.02       Status               :  Normal   
+          Low Warn Threshold  : -6.99       High Warn Threshold  :  1.00    
+          Low Alarm Threshold : -7.96       High Alarm Threshold :  2.01    
+
+    Rx Power (dBm)            : -40.00      Status               :  Low Alarm 
+          Low Warn Threshold  : -19.00      High Warn Threshold  :  0.00    
+          Low Alarm Threshold : -20.00      High Alarm Threshold :  1.00    
+
+    Tx Bias Current (mA):        6.42       Status               :  Normal   
+          Low Warn Threshold  :  1.00       High Warn Threshold  :  18.00   
+          Low Alarm Threshold :  0.50       High Alarm Threshold :  20.00   
+
+Port :  36       
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : FINISAR CORP.    
+    Part Number           : FTLX8571D3BCL    
+    Serial Number         : ARD0RKS          
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  38.58      Status               :  Normal   
+          Low Warn Threshold  : -8.00       High Warn Threshold  :  73.00   
+          Low Alarm Threshold : -13.00      High Alarm Threshold :  78.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.31       Status               :  Normal   
+          Low Warn Threshold  :  3.00       High Warn Threshold  :  3.60    
+          Low Alarm Threshold :  2.90       High Alarm Threshold :  3.70    
+ 
+
+    Tx Power (dBm)            : -2.50       Status               :  Normal   
+          Low Warn Threshold  : -5.00       High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -6.00       High Alarm Threshold :  0.00    
+
+    Rx Power (dBm)            : -32.22      Status               :  Low Alarm 
+          Low Warn Threshold  : -18.01      High Warn Threshold  : -1.00    
+          Low Alarm Threshold : -20.00      High Alarm Threshold :  0.00    
+
+    Tx Bias Current (mA):        7.79       Status               :  Normal   
+          Low Warn Threshold  :  5.00       High Warn Threshold  :  12.60   
+          Low Alarm Threshold :  4.00       High Alarm Threshold :  13.20   
+
+Port :  37       
+Error: DDMI is not supported on this 1000T transceiver 
+
+Port :  38       
+Error: DDMI is not supported on this 1000T transceiver 
+
+Port :  39       
+Error: Transceiver is not present on this port 
+
+Port :  40       
+Error: Transceiver is not present on this port 
+
+Port :  41       
+Error: Transceiver is not present on this port 
+
+Port :  42       
+Error: Transceiver is not present on this port 
+
+Port :  43       
+Error: Transceiver is not present on this port 
+
+Port :  44       
+Error: Transceiver is not present on this port 
+
+Port :  45       
+Error: Transceiver is not present on this port 
+
+Port :  46       
+Error: Transceiver is not present on this port 
+
+Port :  47       
+
+    Media Type            : SF+_SR (Unsupported) 
+    Vendor Name           : AVAGO            
+    Part Number           : AFBR-709SMZ      
+    Serial Number         : AD151730VYJ      
+    Wavelength            : 850 nm
+
+    Temp (Celsius)            :  30.43      Status               :  Normal   
+          Low Warn Threshold  :  0.00       High Warn Threshold  :  80.00   
+          Low Alarm Threshold : -5.00       High Alarm Threshold :  85.00   
+
+    Voltage AUX-1/Vcc (Volts) :  3.29       Status               :  Normal   
+          Low Warn Threshold  :  3.13       High Warn Threshold  :  3.46    
+          Low Alarm Threshold :  3.00       High Alarm Threshold :  3.60    
+ 
+
+    Tx Power (dBm)            : -2.40       Status               :  Normal   
+          Low Warn Threshold  : -4.99       High Warn Threshold  : -1.02    
+          Low Alarm Threshold : -9.00       High Alarm Threshold :  3.01    
+
+    Rx Power (dBm)            : -1.88       Status               :  Normal   
+          Low Warn Threshold  : -15.02      High Warn Threshold  : -1.02    
+          Low Alarm Threshold : -15.02      High Alarm Threshold :  3.01    
+
+    Tx Bias Current (mA):        5.09       Status               :  Normal   
+          Low Warn Threshold  :  2.50       High Warn Threshold  :  10.50   
+          Low Alarm Threshold :  2.50       High Alarm Threshold :  10.50   
+
+Port :  48       
+Error: DDMI is not supported on this 1000T transceiver 
+
+Port :  49       
+Error: Transceiver is not present on this port 
+
+Port :  50       
+Error: Transceiver is not present on this port 
+
+Port :  51       
+Error: Transceiver is not present on this port 
+
+Port :  52       
+Error: Transceiver is not present on this port 
+
+Port :  53       
+Error: Transceiver is not present on this port 
+
+Port :  54       
+Error: Transceiver is not present on this port 
+
+Port :  55       
+Error: Transceiver is not present on this port 
+
+Port :  56       
+Error: Transceiver is not present on this port 
+
+Port :  57       
+Error: Transceiver is not present on this port 
+
+Port :  58       
+Error: Transceiver is not present on this port 
+
+Port :  59       
+Error: Transceiver is not present on this port 
+
+Port :  60       
+Error: Transceiver is not present on this port 
+
+Port :  61       
+Error: Transceiver is not present on this port 
+
+Port :  62       
+Error: Transceiver is not present on this port 
+
+Port :  63       
+Error: Transceiver is not present on this port 
+
+Port :  64       
+Error: Transceiver is not present on this port 
+=================================================================================
+      N/A  - parameter not applicable to transceiver connected to the port
+      -inf - negative infinity, parameter not defined
+
