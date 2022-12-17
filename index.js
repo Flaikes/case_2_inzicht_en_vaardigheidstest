@@ -39,19 +39,14 @@ fs.readFile(path.join(__dirname, "switch-transceiver-details.txt"), {encoding: '
                 }
 
                 // Line now looks something like: ["first", "second  shouldBeThird", "shouldbeFourth"]
-                for(let k = data[i][j].length - 2; k > 0; k -= 2){
-                    data[i][j][k] = data[i][j][k].trim();
-                    data[i][j].splice(k, 1, ...data[i][j][k].split(/[ ]{2,}/));
+                data[i][j][1] = data[i][j][1].trim().split(/[ ]{2,}/);
 
-                    subset[formatKey(data[i][j][k+1])] = formatValue(data[i][j][k+2]);
-                }
-
-                // Add last key-value pair
                 // Default is "value"
-                subset["value"] = formatValue(data[i][j][1]);
+                subset["value"] = formatValue(data[i][j][1][0]);
+                subset[formatKey(data[i][j][1][1])] = formatValue(data[i][j][2]);
 
                 // Add object with key to port object
-                port[formatKey(data[i][j][0])] = subset;
+                port[formatKey(data[i][j][0])] = subset; // e.g. temp: {},
                 continue;
             }
 
@@ -59,12 +54,11 @@ fs.readFile(path.join(__dirname, "switch-transceiver-details.txt"), {encoding: '
             port[formatKey(data[i][j][0])] = formatValue(data[i][j][1]);
         }
         //console.log(port);
-        answer.concat(port);
+        answer.push(port);
 
     }    
+    console.info(answer);
 });
-
-console.log(answer);
 
 function formatKey(string){
     const nonAlphNum = string.search(/[^a-zA-Z\d\s:]/); // 
